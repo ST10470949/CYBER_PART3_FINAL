@@ -82,3 +82,19 @@ Data is automatically saved after every change.
 - IntelliJ IDEA
 
 ---
+
+## Project Structure
+
+```
+src/
+│
+├── GUI
+├── NLP
+├── Quiz
+├── TaskManager
+├── ActivityLogger
+├── JSON
+└── Main.java
+```
+
+---
