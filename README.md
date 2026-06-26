@@ -30,3 +30,31 @@ This project was developed as Part 3 of the Programming assignment.
 - Immediate feedback after every answer.
 - Score tracking.
 - Final score and summary at the end.
+
+### Activity Log
+Records important user actions including:
+- Task creation
+- Task completion
+- Task deletion
+- Reminder creation
+- Quiz started
+- Quiz completed
+- NLP actions
+
+The assistant supports:
+- Show activity log
+- What have you done for me?
+- Show more
+
+### Natural Language Processing (NLP)
+
+The assistant understands different ways of saying the same thing.
+
+Examples:
+
+- Add a task to study tomorrow
+- Remind me to submit my assignment
+- Start the quiz
+- Begin the cybersecurity quiz
+- Show activity log
+- What have you done for me?
