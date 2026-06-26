@@ -58,3 +58,27 @@ Examples:
 - Begin the cybersecurity quiz
 - Show activity log
 - What have you done for me?
+
+## Data Storage
+
+The application stores information in JSON files.
+
+Example:
+
+- tasks.json
+- activityLog.json
+
+Data is automatically saved after every change.
+
+---
+
+## Technologies Used
+
+- Java
+- Swing GUI
+- Gson
+- JSON
+- Object-Oriented Programming
+- IntelliJ IDEA
+
+---
