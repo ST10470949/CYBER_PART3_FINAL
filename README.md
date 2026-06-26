@@ -98,3 +98,12 @@ src/
 ```
 
 ---
+
+## Screenshots
+
+### Button
+<img width="1918" height="235" alt="Screenshot 2026-06-26 121748" src="https://github.com/user-attachments/assets/07f00aad-7218-4863-aae7-d62335b1b87a" />
+
+
+### Start Quiz
+<img width="722" height="457" alt="Screenshot 2026-06-26 121805" src="https://github.com/user-attachments/assets/b644d50f-7947-49a1-9870-2a6909216c71" />
