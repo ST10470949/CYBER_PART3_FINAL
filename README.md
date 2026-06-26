@@ -101,8 +101,8 @@ src/
 
 ## Screenshots
 
-### Button
-<img width="1918" height="235" alt="Screenshot 2026-06-26 121748" src="https://github.com/user-attachments/assets/07f00aad-7218-4863-aae7-d62335b1b87a" />
+### Whole Application with each features
+<img width="1918" height="1010" alt="Screenshot 2026-06-26 133448" src="https://github.com/user-attachments/assets/8b6b74d6-9cd7-44b5-86f3-af78694aab42" />
 
 
 ### Start Quiz
